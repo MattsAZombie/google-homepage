@@ -1,0 +1,1 @@
+This is a mini project via The Odin Project. It is used to demonstrate some basic html and css skittles.
